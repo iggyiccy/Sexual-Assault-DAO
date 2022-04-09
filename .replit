@@ -1,0 +1,8 @@
+run = "node tools"
+
+[packager]
+language = "nodejs"
+
+[packager.features]
+packageSearch = true
+guessImports = true
